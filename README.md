@@ -1,2 +1,2 @@
 # Projects
-All the project of web development demo
+All the project of web development demo.
